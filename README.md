@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] User can log in with newly created account
 - [x] App has a feed of posts when user logs in
 - [x] User can upload a new post which takes in a picture from photo library and an optional caption	
-- [ ] User is able to logout	
+- [x] User is able to logout	
  
 The following **optional** features are implemented:
 
