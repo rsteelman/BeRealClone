@@ -1,17 +1,1 @@
-//
-//  BeRealCloneApp.swift
-//  BeRealClone
-//
-//  Created by Michael Steelman on 9/21/25.
-//
-
-import SwiftUI
-
-@main
-struct BeRealCloneApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
+////  BeRealCloneApp.swift//  BeRealClone////  Created by Michael Steelman on 9/22/25.//import SwiftUIimport ParseSwiftimport PhotosUI@mainstruct BeRealCloneApp: App {    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate        var body: some Scene {        WindowGroup {            ContentView()        }    }}
