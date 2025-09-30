@@ -1,37 +1,33 @@
-# Project 2 - BeReal Clone
+# Project 3 - BeRealer 2
 
 Submitted by: Robert Steelman
 
-BeReal Clone is an app that hosts an instagram-like service where users post photos with optional captions and can see other users' posts.
+BeRealer is an app that introduces a way to catch up with friends by posting photos periodically. Users can post, comment, and view other users' posts if they have made a post themselves. 
 
-Time spent: **5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users see an app icon in the home screen and a styled launch screen.
-- [x] User can register a new account
-- [x] User can log in with newly created account
-- [x] App has a feed of posts when user logs in
-- [x] User can upload a new post which takes in a picture from photo library and an optional caption	
-- [x] User is able to logout	
+- [x] User can launch camera to take photo instead of photo library
+- [x] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
+- [x] Users are not able to see other users’ photos until they upload their own.
+- [x] Users can intereact with posts via comments, comments will have user data such as username and name
+- [x] Posts have a time and location attached to them
+- [x] Users are not able to see other photos until they post their own (within 24 hours)	
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [ ] User stays logged in when app is closed and open again	
-
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] User receive notifcation when it is time to post
 
 ## Video Walkthrough
 
-[Link to video](https://youtu.be/0LWC0zbEBiQ)
+WILL DO (it is very late)
+
+## Notes
+
+Describe any challenges encountered while building the app.
 
 ## License
 
